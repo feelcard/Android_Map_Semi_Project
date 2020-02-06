@@ -8,9 +8,19 @@
 
 5. MainActivity.xml 에 fragment 강제 선언 및 추가
 
-   ## Manifest xml
-
 6. [MainActivity.java](http://mainactivity.java) 에서 fragment 불러오기
+
+   
+
+   # 구성도 이미지
+
+   ![logic1](https://user-images.githubusercontent.com/57747689/73916044-f7d4cc00-48ff-11ea-8aca-f85f5597665a.png)
+
+   
+
+   ![logic2](https://user-images.githubusercontent.com/57747689/73916048-f86d6280-48ff-11ea-9d61-f9b65e50e1ca.png)
+
+   # Manifest xml
 
    
 
@@ -37,9 +47,10 @@
             </intent-filter>
         </activity>
     </application>
+       </manifest>
    ```
 
-   </manifest>
+   
 
 ## MainActivity xml
 
@@ -975,4 +986,24 @@ public class ThirdActivity extends AppCompatActivity {
 ```
 
 
+
+# Images
+
+
+
+![MainActivity](https://user-images.githubusercontent.com/57747689/73915734-4cc41280-48ff-11ea-868e-ac6ae16d62b0.png)
+
+
+
+![SecondActivity](https://user-images.githubusercontent.com/57747689/73915743-4f266c80-48ff-11ea-97b9-55799662b283.png)
+
+![MapsActivity](https://user-images.githubusercontent.com/57747689/73915739-4df53f80-48ff-11ea-8c46-2670647ee165.png)
+
+
+
+![MapsActivity_random](https://user-images.githubusercontent.com/57747689/73915741-4e8dd600-48ff-11ea-938c-ab661e351bef.png)
+
+
+
+![MapsActivity_click](https://user-images.githubusercontent.com/57747689/73915742-4f266c80-48ff-11ea-9091-bd50d82ac389.png)
 
